@@ -50,6 +50,7 @@ git remote set-url origin https://github.com/NuaaMtz/-.git(同上)
 git push -u origin master(第一次需要加上-u,输入git账号，密码输入的是第一步的结果)
 
 ```
+除了第一次外，其他时候都不需要在最后一步输入账号密码了（单个仓库）
 经过上面的操作，应该已经完成了第一次的整个项目的上传，之后就是每次对自己的代码进行更新后上传操作：
 ```
 git add .
