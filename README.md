@@ -47,7 +47,7 @@ git add .
 git commit (进入的文件内写上自己要的注释，保存关闭编辑器即可)
 git remote add origin git@github.com:NuaaMtz/-.git( 这里的NuaaMtz/-.git需要按照第三步的结果进行替换)
 git remote set-url origin https://github.com/NuaaMtz/-.git(同上)
-git push -u origin master(第一次需要加上-u,输入git账号，密码输入的是第一步的结果)
+git push -u origin master(第一次需要加上-u,输入git账号，密码输入的是第一步的结果,也就是我假设的abc)
 
 ```
 除了第一次外，其他时候都不需要在最后一步输入账号密码了（单个仓库）
