@@ -60,3 +60,18 @@ git push origin master
 
  对于新手，这样的操作应该已经足够了。如果还需要其他的功能，比如不上传某些文件，回退保本，更改分支之类的，这些功能都建立了上面的步骤都实现后才能实现。
 
+
+5. 上传第二个仓库的方法
+在按照前面的步骤完成第一个仓库的上传之后，如果想要进行第二个仓库上传，只需要按照第四步的以下步骤完成：
+
+```
+
+git init
+git add .
+git commit (进入的文件内写上自己要的注释，保存关闭编辑器即可)
+git remote add origin git@github.com:NuaaMtz/-.git( 这里的NuaaMtz/-.git需要按照第三步的结果进行替换)
+git remote set-url origin https://github.com/NuaaMtz/-.git(同上)
+git push -u origin master(第一次需要加上-u,输入git账号，密码输入的是第一步的结果,也就是我假设的abc)
+
+```
+
