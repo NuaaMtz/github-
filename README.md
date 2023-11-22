@@ -108,3 +108,15 @@ git config --global credential.helper store
  git push origin master
 ```
 这样就完成了更新
+
+
+7. 保存密码
+!!!! 重要提示：密码需要保存！！！！！（里面的abc的这个密码需要保存，否则在每次）
+如果需要自己自动保存密码的话，在第一次输入密码成功上传/更新后，运行下列：
+```
+  git config --global credential.helper store
+```
+ 之后就可以用了。就算忘了也没关系，再生成一个直接使用就行。
+
+
+
