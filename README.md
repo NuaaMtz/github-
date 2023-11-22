@@ -75,3 +75,36 @@ git push -u origin master(第一次需要加上-u,输入git账号，密码输入
 
 ```
 
+6.两台电脑管理一个仓库
+在完成前面的所有步骤后，在一台新电脑上对同一账号同一仓库进行更新和上传
+同样的，你得先把前面的1和2完成，保存密码，假设为abc
+
+6.1 在你需要保存项目的地方克隆你的项目：
+```
+  git clone https://github.com/NuaaMtz/geant4VscodeSetting.git
+```
+然后开始修改你的代码
+
+6.2 修改全局变量
+
+```
+git config --global user.name "username"
+git config --global user.email "study@user.com"
+git config --global credential.helper store
+````
+6.3 上传
+因为是克隆下来的，因此不需要初始化，自带了.git
+
+```
+  git add .
+  git commit 
+
+  git push origin master
+```
+
+6.4 更新
+当其他的电脑对其更新后，你本地的电脑也需要进行更新。
+```
+ git push origin master
+```
+这样就完成了更新
