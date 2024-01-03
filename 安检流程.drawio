@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T08:17:05.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.16" etag="EUzS9vxisyM-JfEMFjLf" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T08:28:18.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kJeCCS4-12zW-QBSc-uk" version="22.1.16" type="github">
   <diagram name="Page-1" id="VCpJiN9lBQyXpbsmq7-H">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-1" target="DWnoM8MXpBWE4JJVsXHj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-1" value="统计违禁品" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="460" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="420" as="targetPoint" />
+            <mxPoint x="160" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="261" y="330" />
+              <mxPoint x="261" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-2" value="收集样例" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-5" value="中子安检系统" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-7" target="DWnoM8MXpBWE4JJVsXHj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-7" value="待检物品" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="419.66" as="sourcePoint" />
+            <mxPoint x="590" y="419.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-10" value="判断集合&lt;br&gt;信息关系" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="420" as="sourcePoint" />
+            <mxPoint x="800" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-13" target="DWnoM8MXpBWE4JJVsXHj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-13" target="DWnoM8MXpBWE4JJVsXHj-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-13" value="输&lt;br&gt;出&lt;br&gt;结&lt;br&gt;果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="370" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-15" value="通过" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-17" value="需要进一步检查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
