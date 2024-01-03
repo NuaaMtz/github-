@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T08:28:18.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kJeCCS4-12zW-QBSc-uk" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T08:32:09.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="AB7iiRG85Dxevj4MGYSM" version="22.1.16" type="github">
   <diagram name="Page-1" id="VCpJiN9lBQyXpbsmq7-H">
-    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1358" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,20 +47,20 @@
             <mxPoint x="800" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DWnoM8MXpBWE4JJVsXHj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-13" target="DWnoM8MXpBWE4JJVsXHj-15">
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-13" target="DWnoM8MXpBWE4JJVsXHj-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DWnoM8MXpBWE4JJVsXHj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-13" target="DWnoM8MXpBWE4JJVsXHj-17">
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DWnoM8MXpBWE4JJVsXHj-13" target="DWnoM8MXpBWE4JJVsXHj-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DWnoM8MXpBWE4JJVsXHj-13" value="输&lt;br&gt;出&lt;br&gt;结&lt;br&gt;果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="370" width="60" height="90" as="geometry" />
+          <mxGeometry x="790" y="370" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DWnoM8MXpBWE4JJVsXHj-15" value="通过" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="215" width="120" height="60" as="geometry" />
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-20" value="通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="200" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DWnoM8MXpBWE4JJVsXHj-17" value="需要进一步检查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="DWnoM8MXpBWE4JJVsXHj-22" value="需要进一步检查" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="540" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
